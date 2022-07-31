@@ -1,5 +1,3 @@
-var numberOfPhotos;
-
 const buttonNextPhoto=document.createElement('button');
 buttonNextPhoto.innerText=">";
 buttonNextPhoto.id="NextPhoto";
